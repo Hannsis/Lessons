@@ -48,6 +48,7 @@
              //matte som i gymnasiet, kombinera variabler i uttryck. statement
              //math operators 
              //samma som de man är van vid / * - +
+             //orkar inte nu
         }
         static void IfElse()
         {
