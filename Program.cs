@@ -50,6 +50,7 @@
              //samma som de man är van vid / * - +
              //orkar inte nu
         }
+       
         static void IfElse()
         {
             //alternativ 
@@ -62,6 +63,13 @@
             else
                 Console.WriteLine("This is what you wrote: \"" + input + "\"");
 
+
+        }
+
+        static void DoWhile()
+        {
+            //
+            string hälsning = "Hejdå!";
 
         }
     }
